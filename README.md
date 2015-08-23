@@ -14,4 +14,4 @@ Download data from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles
 See codebook.md for more detail on the data set.
 
 ###Output:
-"tidydata.txt"
+Data file: "tidydata.txt"
